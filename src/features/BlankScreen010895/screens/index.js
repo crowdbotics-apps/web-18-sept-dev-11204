@@ -169,7 +169,7 @@ export class __Blank extends React.Component {
           <Image
             resizeMode="cover"
             source={{
-              url:
+              uri:
                 "https://d3nfddh2sbo9hk.cloudfront.net/media/project_component_resources/download_7s79da1.jpeg"
             }}
             style={{
